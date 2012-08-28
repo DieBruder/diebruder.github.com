@@ -3,6 +3,8 @@ layout: index
 title: About Us
 ---
 
-# Entertainment
+# All about entertainment
+
+## Entertainment
 
 Let me entertainment you baby!
