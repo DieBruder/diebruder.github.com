@@ -3,6 +3,6 @@ layout: page
 title: About us
 ---
 
-# About Us
+# About DieBruder
 
 Created using prose.io
