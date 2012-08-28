@@ -1,6 +1,3 @@
-
-# All about entertainment
-
 ---
 layout: index
 title: About Us
